@@ -7,3 +7,5 @@
 A 4 KB Python chess engine for the make.fun bounty "Build the strongest chess engine in 4 KB of Python".
 
 Bounty: https://make.fun/bounty/tiny-chess-01
+
+Local practice trial (trial-0): 3 wins, 3 losses, Elo ~1279.
